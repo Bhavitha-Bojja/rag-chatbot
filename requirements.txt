@@ -1,0 +1,9 @@
+chainlit==1.1.306
+langchain==0.2.6
+langchain-google-genai==1.0.7
+langchain-community==0.2.6
+chromadb==0.5.3
+pymupdf==1.24.5
+python-docx==1.1.2
+python-dotenv==1.0.1
+unstructured==0.14.6
